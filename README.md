@@ -20,7 +20,7 @@ _____________
 <a href="https://ibb.co/YW4FGKf"><img src="https://i.ibb.co/YW4FGKf/Java-FX-Logo.webp" alt="Java-FX-Logo" border="0"></a>
 
 _______
-бучаюсь в школе Skillfactory
+oбучаюсь в школе Skillfactory
 
 <a href="https://t.me/voink0v"><img src="https://i.ibb.co/N1rGX4k/IMG-0301.jpg" alt="IMG-0301" border="0"></a>
 
