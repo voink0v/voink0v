@@ -1,16 +1,22 @@
-### Hi there 👋
+![test2](https://media.giphy.com/media/Ss5zpSaKfhj2v04DpQ/giphy.gif?cid=ecf05e47gzbk14bfkz5oh76o5m8z48hih2vuvwt2i5r8ah4d&rid=giphy.gif&ct=g) 
 
-<!--
-**voink0v/voink0v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+# Приветсвую, друг!
+## Меня зовут Илья, я занимаюсь обучением языка Java
+
+_____________
+
+Обучаюсь в школе Skillfactory
+
+
+
+
+
+
+
+
+            
+      
