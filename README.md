@@ -11,6 +11,7 @@ _____________
 
 Обучаюсь в школе Skillfactory
 
+<img src="https://i.ibb.co/N1rGX4k/IMG-0301.jpg" alt="IMG-0301" border="0" /></a>
 
 
 
